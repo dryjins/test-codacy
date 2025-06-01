@@ -1,5 +1,5 @@
 # 필요한 라이브러리 임포트
-import pandas as pd
+dimport pandas as pd
 import numpy as np
 from lifelines import KaplanMeierFitter
 from lifelines.statistics import logrank_test
